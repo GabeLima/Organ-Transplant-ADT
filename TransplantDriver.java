@@ -1,4 +1,3 @@
-// Gabriello Lima, 112803276, R01
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
