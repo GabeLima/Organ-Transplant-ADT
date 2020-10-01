@@ -1,4 +1,3 @@
-// Gabriello Lima, 112803276, R01
 import java.util.Comparator;
 
 public class NumConnectionsComparator implements Comparator<Patient>{
