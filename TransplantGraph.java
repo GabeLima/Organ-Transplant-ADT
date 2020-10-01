@@ -1,4 +1,3 @@
-// Gabriello Lima, 112803276, R01
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.io.File; 
